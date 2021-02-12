@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Wiki Lookup",
+  "description": "Chrome extension to see if highlighted phrase has wikipedia article",
+  "version": "1.0",
+  "author": "Marley Alford",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "My custom google Chrome extension"
+  },
+  "permissions": ["activeTab"]
+}
