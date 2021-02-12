@@ -1,17 +1,10 @@
-document.addEventListener(
-  "DOMContentLoaded",
-  function () {
-    var checkPageButton = document.getElementById("clickIt");
-
-    checkPageButton.addEventListener(
-      "click",
-      function () {
-        chrome.tabs.getSelected(null, function (tab) {
-          alert("Hello!... this is my first chrome extension.");
-        });
-      },
-      false
-    );
+chrome.tabs.executeScript(
+  {
+    code: "window.getSelection().toString();",
   },
-  false
+  function (selection) {
+    var output = document.getElementById("output");
+    output.innerHTML = selection[0];
+    // alert(selection[0]);
+  }
 );
