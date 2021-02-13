@@ -18,3 +18,4 @@ This chrome extension allows you to see if a wikipedia article exists on any wor
 # Next Steps
 
 - [ ] Add button to create new wikipedia article if it does not exist
+- [ ] Make popup pretty
