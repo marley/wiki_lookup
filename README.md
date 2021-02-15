@@ -2,13 +2,15 @@
 
 This chrome extension allows you to see if a wikipedia article exists on any word or phrase you highlight.
 
-# To Use
+# How To Use
 
 1.  Download Wiki Lookup from Chrome Store
 2.  Enable and pin extension
 3.  Highlight a word on Chrome web browser
 4.  Click Wiki Lookup icon
 5.  If page exists, you will see a link to the wikipedia article in the Wiki Lookup popup. If not, you will see an error message.
+
+![Screenshot of user clicking on extension](https://github.com/marley/wiki_lookup/blob/main/wiki_lookup_in_action.png)
 
 # Helpful Links
 
