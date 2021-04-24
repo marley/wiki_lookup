@@ -14,8 +14,8 @@ This browser extension allows you to see if a wikipedia article exists on any wo
 
 # Helpful Links
 
-- The first draft of this extension I made with the help of https://medium.com/tech-tajawal/build-a-simple-google-chrome-extension-in-few-minutes-1f13b600e83e
-- How to safely open a new tab https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
+- The first draft of this extension I made with the help of [this tutorial](https://medium.com/tech-tajawal/build-a-simple-google-chrome-extension-in-few-minutes-1f13b600e83e)
+- [How to safely open a new tab](https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/)
 
 # FAQ
 
